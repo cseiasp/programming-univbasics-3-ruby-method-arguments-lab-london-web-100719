@@ -4,9 +4,15 @@
 # in order to complete the rest of this course and be ready for the next course!
 
 def introduction(name)
-  puts "Hi, my name is #{name}"
+  puts "Hi, my name is #{name}."
 end
 
+def introduction_with_language(name, language)
+  first_number - second_number
+end
+
+def introduction_with_language_optional(name, language = "Ruby")
+  first_number - second_number 
 
 
 
